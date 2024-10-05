@@ -1,0 +1,34 @@
+{
+  "Animations": [
+    {
+      "Name": "anim_reacttocliff_edgeliftup_01",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_gotosleep_sleeping_01",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "LowStim"
+    },
+    {
+      "Name": "anim_petdetection_dog_02",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "MedStim"
+    },
+    {
+      "Name": "anim_workout_highenergy_strong_01",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "HighStim"
+    },
+    {
+      "Name": "anim_speedtap_losegame_intensity03_03",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Frustrated"
+    }
+  ]
+}
